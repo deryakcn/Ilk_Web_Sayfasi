@@ -1,0 +1,30 @@
+hr{
+width: 98%;
+margin-left: 0%;
+}
+h3{
+    padding-left: 10px;
+   
+}
+h2{
+    padding-left: 10px;
+    color: coral;
+}
+.hakkimda{
+    padding: 5px;
+    border: 1px solid black;
+    margin-top: 20px;
+}
+.dizi{ 
+    padding-right: 20px; 
+    margin-top: -10px;
+}
+p{
+    padding-left: 5px;
+}
+.bilgi{
+    padding-left: 20px; 
+}
+.baslik{
+    color: cadetblue;
+}
